@@ -1,0 +1,18 @@
+e-realizar un listado con los apellidos y nombre de los alumnos, junto con los comando y orden de ejecución de los
+ mismos, que debieron usar para este TP
+
+Listado con nombre y apellido
+Jorge Calderon
+Javier Olivieri
+Fernando Nieto
+
+
+Comandos
+1 - git remote add upstream https://github.com/Jorgedc87/TP_SO_i2_Equipo3.git
+2 - git fetch upstream
+3 - git merge upstream/main
+Descarga repositorio de Beta, pero el archivo fork.txt sigue teniendo los valores anteriores.
+4 - git add .
+5 - git commit -m "mensaje"
+6 - git push
+Actualiza repositorio en Github
